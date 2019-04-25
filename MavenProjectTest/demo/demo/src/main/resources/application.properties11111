@@ -1,0 +1,3 @@
+server.port=8889
+random=${random.int}
+msg=springboot\u4F8B\u5B50${random}

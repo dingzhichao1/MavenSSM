@@ -1,0 +1,10 @@
+province:
+    city1: 汉中市
+    city2: 西安市  
+spring:
+    datasource:
+        driverClassName: com.mysql.jdbc.Driver
+        url: jdbc:mysql://localhost:3306/db_ar?useUnicode=true&characterEncoding=utf-8
+        username: root
+        password: 123456
+    
